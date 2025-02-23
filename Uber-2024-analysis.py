@@ -1,6 +1,7 @@
 import streamlit as st
 import pickle as pkl
 import pandas as pd
+import sklearn
 from sklearn.preprocessing import StandardScaler
 
 # Load the trained model
