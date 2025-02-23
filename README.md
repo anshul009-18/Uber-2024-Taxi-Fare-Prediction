@@ -33,17 +33,6 @@ Ensure you have Python installed and the required dependencies:
 pip install streamlit pandas scikit-learn pickle-mixin
 ```
 
-### Running the App
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/Uber-Fare-Prediction.git
-   cd Uber-Fare-Prediction
-   ```
-2. Run the Streamlit app:
-   ```bash
-   streamlit run "Uber 2024 analysis.py"
-   ```
-
 ## 🖥️ Usage
 1. Enter the required trip details (distance, time, fare per mile, etc.).
 2. Click the **Predict Fare 💰** button.
