@@ -1,7 +1,7 @@
 import streamlit as st
 import pickle as pkl
 import pandas as pd
-from scikit-learn.preprocessing import StandardScaler
+from sklearn.preprocessing import StandardScaler
 
 with open("C:/Users/anshu/Anaconda/Uber/uber2024.sav", "rb") as model_file:
     model = pkl.load(model_file)
