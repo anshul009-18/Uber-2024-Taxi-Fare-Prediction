@@ -26,13 +26,6 @@ This project is a **taxi fare prediction web app** built using **Streamlit** and
 - **Interactive Prediction**: Users can get an instant fare estimate by entering trip details.
 - **Automatic Weekend & Daytime Adjustments**: Recognizes weekend trips and time of day to refine predictions.
 
-## 🛠️ Installation & Setup
-### Prerequisites
-Ensure you have Python installed and the required dependencies:
-```bash
-pip install streamlit pandas scikit-learn pickle-mixin
-```
-
 ## 🖥️ Usage
 1. Enter the required trip details (distance, time, fare per mile, etc.).
 2. Click the **Predict Fare 💰** button.
